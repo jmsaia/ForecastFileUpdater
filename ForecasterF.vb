@@ -1,6 +1,6 @@
 Sub ForecasterFwithset()
 
-'Orginal file without new edits (The untested one is in the brach with edits should be faster and better. I've improved since this code)
+'Orginal file without new edits (The untested one is in the branch with edits should be faster and better. I've improved in VBA since this code)
 'Tested and working Macro for updating Forecast file
     'This defines the dimensions of the data for variables that will be defined
     'This is the most recent version of the Forecast Macro that has been tested
